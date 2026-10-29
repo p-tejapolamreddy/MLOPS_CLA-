@@ -1,4 +1,3 @@
-# MLOPS_CLA-4
 # ML Model Deployment Strategies and Model Serving using FastAPI
 
 This project implements the CLA 4 assignment using the **Titanic – Machine Learning from Disaster** dataset. It trains one classification pipeline, saves it as `model.pkl`, reuses that same pipeline for online, batch, and streaming inference, and serves predictions through FastAPI.
